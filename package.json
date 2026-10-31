@@ -1,0 +1,16 @@
+{
+  "name": "last-hope-shore",
+  "description": "A new job by seashore turns into an awaken nightmare.",
+  "version": "0.1.0",
+  "maintainers": [
+    {
+      "name": "Igor Padoim",
+      "email": "igorpadoim@gmail.com",
+      "web": "https://padoim.com.br/"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/Nereare/last-hope-shore/issues"
+  },
+  "license": "CC-BY-NC-SA-4.0"
+}
